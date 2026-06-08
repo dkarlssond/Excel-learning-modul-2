@@ -12,6 +12,7 @@ Byggde en enkel dashboard med total intäkt, täckningsbidrag och uppdelning per
 
 Vad jag tog med mig
 Hur argumenten i XLOOKUP faktiskt fungerar, skillnaden mellan exakt och approximativ matchning, och varför strukturerade tabellreferenser som tblOrder[...] gör formler mycket lättare att läsa än A2, B2, C2.
+
 Fil
 Övningscase_2_Excel.xlsx – öppna fliken Order för att se formlerna, eller fliken Dashboard för sammanställningen.
-Byggd i Excel 365.ShareProject contentExcel mästareCreated by youAdd PDFs, documents, or other text to reference in this project.Contentm1_case.xlsxxlsxÖvningscase 1 Excel.xlsxxlsxindex (6).htmlhtmlÖvningscase 2 Excel.xlsxxlsxJunior Business Controller till tillverkande bolag i Jönköping.md68 linesmd# Excel-learning-modul-2
+Byggd i Excel 365.
